@@ -1,0 +1,1 @@
+The main objective of this project is to create an exact replica of a Amazon webpage using HTML and CSS. This exercise helps in understanding and applying various HTML and CSS techniques to achieve pixel-perfect designs and enhances proficiency in front-end web development.
